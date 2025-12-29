@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Bluma to Lunch",
+  "base_artist": "BLOOM VASE",
+  "createdAt": "2025-12-29T14:06:30.736265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bluma to Lunch",
+      "artist": "BLOOM VASE",
+      "has_synced": true,
+      "path": "select/01_Bluma_to_Lunch_BLOOM_VASE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bluma to Lunch",
+      "artist": "BLOOM VASE",
+      "has_synced": false,
+      "path": "select/pl_01_Bluma_to_Lunch_BLOOM_VASE.txt"
+    }
+  ]
+}
